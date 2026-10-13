@@ -22,6 +22,8 @@ Personal portfolio website: single-page HTML with downloadable CV and profile im
   - `movies-api-architecture.png` - Movies API Architecture diagram
   - `design-architecture-clc-ci.png` - Credit Loan Calculator CI Architecture
   - `aws-target-architecture-hsg.png` - HomeStayGrid Architecture
+  - `vault-five-joining-host-room02.png` - Vault Five landing page Host joining rooms
+  - `vault-five-architecture.png` - Vault Five project Architecture
 ## Hosting
 
 Deployed with Vercel as a static site.
